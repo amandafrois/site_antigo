@@ -622,14 +622,14 @@ li .description {
 
 .switch--shadow+label:before {
     right: 1px;
-    background-color: #f1f1f1;
+    background-color: #04143A;
     border-radius: 30px;
     transition: all 0.4s;
 }
 
 .switch--shadow+label:after {
     width: 30px;
-    background-color: #fff;
+    background-color: #0f1e5e;
     border-radius: 100%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     transition: all 0.4s;
