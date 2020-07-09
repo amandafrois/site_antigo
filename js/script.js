@@ -61,6 +61,7 @@ let max = 32;
 //     </script>
     
 //funcao para aumentar o tamanho das letras 
+
 function increaseFontSizeInternal(list) {
     for (i = 0; i < list.length; i++) {
         let s = 18;
