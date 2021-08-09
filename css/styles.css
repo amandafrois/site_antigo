@@ -86,6 +86,7 @@ h1.name {
 .foto{
     border-top: green;
     border-bottom: wheat;
+    border-style: solid;
     border-radius: 60px;
     border-left: none;
     border-right: none;
