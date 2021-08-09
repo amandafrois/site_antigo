@@ -63,7 +63,7 @@ h1.name {
 
 .job-title {
     vertical-align: top;
-    background-color: #D9E7F8;
+    background-color: #b5daa7;
     color: #4A90E2;
     font-weight: 600;
     margin-top: 15px;
@@ -84,7 +84,7 @@ h1.name {
 }
 
 .foto{
-    border-top: #04143A;
+    border-top: green;
     border-bottom: wheat;
     border-radius: 60px;
     border-left: none;
@@ -93,7 +93,7 @@ h1.name {
 }
 
 .fotoindex{
-    border-top: #04143A;
+    border-top: green;
     border-bottom: wheat;
     border-radius: 100px;
     border-style: solid;
@@ -139,7 +139,7 @@ h2.section-title{
 .list-card h3 {
     font-size: 20px;
     font-weight: 600;
-    color: #5B6A9A;
+    color: green;
 }
 
 .list-card h2 {
@@ -161,7 +161,7 @@ h2.section-title{
 
 .list-card .exp {
     margin-right: 15px;
-    color: #4A90E2;
+    color: gray;
     font-weight: 600;
     width: 100px;
 }
@@ -304,7 +304,7 @@ h2.section-title{
 .skill-meta h3 {
     font-size: 20px;
     font-weight: 800;
-    color: #4A90E2;
+    color: green;
     margin-bottom: 5px;
 }
 
