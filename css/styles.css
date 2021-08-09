@@ -6,6 +6,11 @@ a {
     color: #04143A;
 }
 
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
 .butblog{
     color: #EEF0F7;
 }
@@ -64,7 +69,7 @@ h1.name {
 .job-title {
     vertical-align: top;
     background-color: #b5daa7;
-    color: #4A90E2;
+    color: green;
     font-weight: 600;
     margin-top: 15px;
     margin-left: 20px;
